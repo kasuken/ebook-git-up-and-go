@@ -1,3 +1,5 @@
+# Viewing commit history
+
 Displays a list of commit history for a repository
 
 ```bash
